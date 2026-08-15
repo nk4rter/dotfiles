@@ -1,0 +1,14 @@
+font-family = "IosevkaCustom Nerd Font"
+theme = GruvboxDark
+
+window-decoration = server
+background-opacity = 0.95
+
+shell-integration-features = no-cursor
+cursor-style = block
+
+bold-is-bright = true
+
+mouse-scroll-multiplier = 0.25
+
+confirm-close-surface = false
